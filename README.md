@@ -19,3 +19,6 @@
 
 ## <img align="center" alt="HTML5" width="400px" src="https://user-images.githubusercontent.com/110520876/195979845-a30c4a9a-969d-4ce0-b345-4a9ee5ce262e.gif"/>
 ### Data Science is the study of data to extract meaningful insights for business
+
+## <img align="center" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/110520876/196131421-f85953ab-ebe9-4354-95d3-15be0c223cd3.gif"/> Problem Statement
+###  Trying to estimate the prevalence, evaluate the risk factors of CKD and determine the association between disease and its risk factors but it is difficult to organize the data because algorithm cannot handle huge data sets.
